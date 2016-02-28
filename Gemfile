@@ -52,3 +52,4 @@ group :development, :test do
   gem 'mocha'
 end
 
+ruby "2.1.3"
